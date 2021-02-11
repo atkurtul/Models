@@ -1,0 +1,104 @@
+# Blender MTL File: 'ModelRenderLighting.blend'
+# Material Count: 7
+
+newmtl 25_metal_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.426399 0.571936 0.651733
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Widowmaker_D.tga
+map_Bump Widowmaker_N.tga
+map_Ks Widowmaker_S.tga
+map_d Widowmaker_D.tga
+
+newmtl 25_suit_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.601945 0.515902 0.418349
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Widowmaker_D.tga
+map_Bump Widowmaker_N.tga
+map_Ks Widowmaker_S.tga
+map_d Widowmaker_D.tga
+
+newmtl 25_widowmaker_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.715376 0.698444 0.505182
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Widowmaker_D.tga
+map_Bump Widowmaker_N.tga
+map_Ks Widowmaker_S.tga
+map_d Widowmaker_D.tga
+
+newmtl 27_eyes_0.4_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.751585 0.585446 0.609846
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Widowmaker_Eye_D.tga
+map_Bump Widowmaker_Eye_N.tga
+map_Ke Widowmaker_Eye_e.tga
+map_d Widowmaker_Eye_D.tga
+refl Widowmaker_Eye_e.tga
+
+newmtl 27_hair_0.2_0_0.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.708930 0.794197 0.656044
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Widowmaker_Hair_D.tga
+map_Bump Widowmaker_Hair_N.tga
+map_Ke Widowmaker_Hair_Sh.tga
+map_d Widowmaker_Hair_D.tga
+refl Widowmaker_Hair_Sh.tga
+
+newmtl 27_metalsh_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.730175 0.537583 0.430667
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Widowmaker_Suit_M.tga
+map_Bump Widowmaker_N.tga
+map_Ke Widowmaker_Metal_Env.tga
+map_d Widowmaker_Suit_M.tga
+refl Widowmaker_Metal_Env.tga
+
+newmtl 27_suitsh_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.787857 0.522450 0.743574
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Widowmaker_Suit_M.tga
+map_Bump Widowmaker_N.tga
+map_Ke Widowmaker_Suit_Env.tga
+map_d Widowmaker_Suit_M.tga
+refl Widowmaker_Suit_Env.tga

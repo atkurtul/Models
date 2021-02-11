@@ -1,0 +1,260 @@
+# Blender MTL File: 'ModelRenderLighting.blend'
+# Material Count: 19
+
+newmtl 1_bagshoes_0.1_16_16_right_hand_arm_right_wrist_arm_right_finge
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.652063 0.693450 0.669955
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd gear_diffuse.png
+map_Bump gear_bump.png
+map_d gear_diffuse.png
+
+newmtl 1_glovesbelt_0.1_15_15
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.423153 0.615683 0.699748
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd gear_diffuse.png
+map_Bump gear_bump.png
+map_d gear_diffuse.png
+
+newmtl 24_eyes_0.5_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.794072 0.469023 0.401435
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd eye_diffuse.png
+map_Bump eye_nrm.png
+map_Ks eye_spc.png
+map_d eye_diffuse.png
+
+newmtl 25_body_0.1_0_0.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.567468 0.752588 0.407936
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd body.png
+map_Bump n.png
+map_Ks body_lm.png
+map_d body.png
+
+newmtl 25_face_0.4_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.505290 0.568690 0.482993
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd outfit_diffuse.png
+map_Bump n.png
+map_Ks outfit_spec.png
+map_d outfit_diffuse.png
+
+newmtl 25_hairin_0.6_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.731365 0.756447 0.718871
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_diffuse.png
+map_Bump hair_nrm.png
+map_Ks hair_spec.png
+map_d hair_diffuse.png
+
+newmtl 25_hairout1_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.491467 0.699807 0.432340
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_diffuse.png
+map_Bump hair_nrm.png
+map_Ks hair_spec.png
+map_d hair_diffuse.png
+
+newmtl 25_hairout2_0.6_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.474402 0.487771 0.482861
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_diffuse.png
+map_Bump hair_nrm.png
+map_Ks hair_spec.png
+map_d hair_diffuse.png
+
+newmtl 25_hairout3_0.6_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.493587 0.411552 0.625749
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_diffuse.png
+map_Bump hair_nrm.png
+map_Ks hair_spec.png
+map_d hair_diffuse.png
+
+newmtl 25_hairout4_0.6_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.541206 0.668459 0.499227
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_diffuse.png
+map_Bump hair_nrm.png
+map_Ks hair_spec.png
+map_d hair_diffuse.png
+
+newmtl 25_hairout5_0.6_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.649069 0.400223 0.526759
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_diffuse.png
+map_Bump hair_nrm.png
+map_Ks hair_spec.png
+map_d hair_diffuse.png
+
+newmtl 25_hairout6_0.6_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.605141 0.511811 0.676776
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_diffuse.png
+map_Bump hair_nrm.png
+map_Ks hair_spec.png
+map_d hair_diffuse.png
+
+newmtl 25_neck_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.500084 0.794001 0.585589
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd headneck.png
+map_Bump n.png
+map_Ks body_lm.png
+map_d headneck.png
+
+newmtl 27_eyeref_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.637856 0.527195 0.558408
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd t.png
+map_Bump flatnormal.png
+map_Ke reflection.png
+map_d t.png
+refl reflection.png
+
+newmtl 4_knuckles_0.6_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.574645 0.688206 0.481730
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd gear_diffuse.png
+map_Bump gear_bump.png
+map_d gear_diffuse.png
+
+newmtl 4_necklace_0.5_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.611786 0.638853 0.536786
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd necklace_diffuse.png
+map_Bump necklace_bump.png
+map_d necklace_diffuse.png
+
+newmtl 4_skin2_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.564836 0.459074 0.402035
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd facecape_diffuse.png
+map_Bump facecape_bump.png
+map_d facecape_diffuse.png
+
+newmtl 7_lashesin_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.465421 0.501299 0.692379
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_diffuse.png
+map_d hair_diffuse.png
+
+newmtl 7_lashesout_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.700503 0.409446 0.609065
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_diffuse.png
+map_d hair_diffuse.png
